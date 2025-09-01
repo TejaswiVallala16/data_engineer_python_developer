@@ -1,0 +1,6 @@
+requests
+lxml
+coloredlogs
+pandas
+pymongo[srv]==3.12
+python-dotenv

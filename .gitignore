@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment & config files
+.env
+*.env
+config.json
+secrets.json
+
+# Logs
+*.log
+
+# Data files
+books.json
+books.csv
+*.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
