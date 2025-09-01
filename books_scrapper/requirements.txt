@@ -4,3 +4,8 @@ coloredlogs
 pandas
 pymongo[srv]==3.12
 python-dotenv
+streamlit
+fastapi 
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
